@@ -1,4 +1,4 @@
-# -CVIP-PYTHON-DEVELOPMENT-PHASE 1
+# -CVIP-PYTHON-DEVELOPMENT-PHASE 1 AND PHASE 2
 # Python Development Intern
 
 ## Overview
